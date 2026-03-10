@@ -1,17 +1,1 @@
-[
-    {
-        "id": 1,
-        "nombre": "Ana",
-        "grupo": "A"
-    },
-    {
-        "id": 2,
-        "nombre": "Jose",
-        "grupo": "B"
-    },
-    {
-        "id": 3,
-        "nombre": "Maria",
-        "grupo": "A"
-    }
-]
+[{"id":1,"nombre":"Ana","grupo":"A"},{"id":2,"nombre":"Jose","grupo":"B"},{"id":3,"nombre":"Maria","grupo":"A"},{"id":4,"nombre":"Eilleen","grupo":"B"}]
