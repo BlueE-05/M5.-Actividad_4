@@ -290,3 +290,10 @@ Debes poder explicar:
 - actualizar datos
 - hacer configurable la ruta `APP_DATA_PATH`
 - automatizar la copia del build frontend en Maven
+
+# 12. Correr Proyecto
+
+```
+docker build -t gestion-alumnos .
+docker run -p 8080:8080 gestion-alumnos
+```
